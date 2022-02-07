@@ -31,6 +31,7 @@ h1{
     box-shadow: 8px 0px 13px grey;
     display: flex;
     justify-content: center;
+    margin-bottom: 50px;
 }
 
 .tabs{

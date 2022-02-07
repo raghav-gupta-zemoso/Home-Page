@@ -26,6 +26,8 @@ h1{
     padding: 20px;
     box-shadow: 8px 0px 13px grey;
     width: 100%;
+    display: flex;
+    justify-content: center;
 }
 
 .tabs{

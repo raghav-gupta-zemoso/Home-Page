@@ -3,15 +3,15 @@ body{
     font-family: sans-serif;
 }
 
-.main{
-    margin-bottom: 90px;
+h1{
+    margin: 0;
 }
 
 .about-me-img{
     width: 400px;
     height: 356px;
     margin: 35px 0px;
-    box-shadow: 4px 7px 21px rgb(136 136 136);
+    box-shadow: 4px 7px 21px rgb(194, 192, 192);
 }
 
 .about-me-name{
@@ -19,7 +19,6 @@ body{
 }
 
 .tabs-block{
-    background-color: #dedbd9;
     padding: 20px;
 }
 
@@ -50,4 +49,5 @@ body{
 .horizontal-line{
     border-bottom: 1px solid;
     width: 800px;
+    margin: 54px auto;
 }

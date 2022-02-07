@@ -1,15 +1,26 @@
 body{
     padding-left: 20px;
+    font-family: sans-serif;
+}
+
+.main{
+    margin-bottom: 90px;
 }
 
 .about-me-img{
     width: 400px;
     height: 356px;
     margin: 35px 0px;
+    box-shadow: 4px 7px 21px rgb(136 136 136);
 }
 
 .about-me-name{
     margin: 0;
+}
+
+.tabs-block{
+    background-color: #dedbd9;
+    padding: 20px;
 }
 
 .tabs{
@@ -28,9 +39,15 @@ body{
 
 .gallery img{
     width: 250px;
+    height: 200px;
     border-radius: 12px;
 }
 
 .gallery img:hover{
     opacity: 0.6;
+}
+
+.horizontal-line{
+    border-bottom: 1px solid;
+    width: 800px;
 }

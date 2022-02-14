@@ -41,8 +41,8 @@ h1{
     background-color: white;
 }
 
-.tabs-block > a:active {
-    border-bottom: 1px solid;
+.tabs:active {
+    border-bottom: 3px solid;
 }
 
 .tabs{

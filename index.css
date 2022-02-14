@@ -12,18 +12,9 @@ h1{
 
 .main{
     padding-left: 20px;
-}
-
-.gallery-main{
-    margin: 0 17%;
-}
-
-.about-main{
-    margin: 0 33%;
-}
-
-.contact-main{
-    margin: 0 38%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .home{

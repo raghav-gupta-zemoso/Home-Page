@@ -41,7 +41,7 @@ h1{
     background-color: white;
 }
 
-.tabs:active {
+.tabs-block > a:active, .tabs-block > a:focus {
     border-bottom: 3px solid;
 }
 
